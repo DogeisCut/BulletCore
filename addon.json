@@ -1,0 +1,10 @@
+{
+	"title"		:	"[E2] BulletCore",
+	"author_name"		:	"DogeisCut",
+	"description"		:	"An E2 extension that allows the firing of bullets/tracers from entities.",
+	"type"		:	"tool",
+	"tags"		:	[ "fun", "build" ],
+	"ignore"	:
+	[
+	]
+}
